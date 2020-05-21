@@ -9,6 +9,7 @@
 #define BRO_PLUGIN_SALESFORCE_GQUIC
 
 #include <plugin/Plugin.h>
+#include <analyzer/Component.h>
 
 namespace plugin {
 namespace Salesforce_GQUIC {
